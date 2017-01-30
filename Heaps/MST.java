@@ -2,7 +2,7 @@
  * Class containing methods to calculate minimum spanning tree of a Graph.
  *
  * @author Rammurthy Mudimadugula
- * @netid  rxm163730
+ * 
  */
 
 import java.util.Scanner;

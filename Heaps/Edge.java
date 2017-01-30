@@ -2,7 +2,7 @@
  * Class implementing Edge of a Graph.
  *
  * @author Rammurthy Mudimadugula
- * @netid  rxm163730
+ * 
  */
 
 import java.lang.Exception;

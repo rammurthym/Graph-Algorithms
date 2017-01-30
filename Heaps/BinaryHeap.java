@@ -2,7 +2,7 @@
  * Class implementing Binary Heaps using array.
  *
  * @author Rammurthy Mudimadugula
- * @netid  rxm163730
+ * 
  */
 
 import java.util.*;

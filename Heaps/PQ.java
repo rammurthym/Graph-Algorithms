@@ -2,7 +2,7 @@
  * Interface for a Priority Queue.
  *
  * @author Rammurthy Mudimadugula
- * @netid  rxm163730
+ * 
  */
 
 public interface PQ<T> {
