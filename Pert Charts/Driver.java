@@ -2,7 +2,7 @@
  * Driver program for MP4
  *
  * @author Rammurthy Mudimadugula
- * @netid  rxm163730
+ * 
  */
 
 import java.io.FileNotFoundException;

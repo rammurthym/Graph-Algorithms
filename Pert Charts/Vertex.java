@@ -2,7 +2,7 @@
  * Class implementing Vertex of a Graph.
  *
  * @author Rammurthy Mudimadugula
- * @netid  rxm163730
+ * 
  */
 
 import java.util.List;
