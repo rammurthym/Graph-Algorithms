@@ -2,8 +2,7 @@
  * Contains methods to calculate number of components in a graph
  *
  * @author Rammurthy Mudimadugula (rxm163730)
- * @author Soorya Prasanna Ravichandran (sxr152130)
- * @author Nagasupreeth Ramesh (nxr150830)
+ * 
  */
 
 import java.io.FileNotFoundException;
