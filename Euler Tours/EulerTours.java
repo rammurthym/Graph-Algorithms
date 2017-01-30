@@ -4,7 +4,7 @@
  * or not, to verify a given path is Euler tour or not.
  *
  * @author Rammurthy Mudimadugula
- * @netid  rxm163730
+ * 
  */
 
 import java.util.*;

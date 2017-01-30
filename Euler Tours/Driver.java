@@ -2,7 +2,7 @@
  * Driver program to test the EulerTours class methods.
  * 
  * @author Rammurthy Mudimadugula
- * @netid  rxm163730
+ * 
  */
 
 import java.io.*;

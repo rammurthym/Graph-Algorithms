@@ -2,7 +2,7 @@
  * Class implementing a generic Circular Linked List.
  *
  * @author Rammurthy Mudimadugula
- * @netid  rxm163730
+ * 
  */
 
 import java.util.Iterator;

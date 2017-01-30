@@ -1,6 +1,6 @@
 /**
  * Class to represent a graph
- *  @author rbk
+ *  @author Rammurthy Mudimadugula
  *
  */
 
